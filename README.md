@@ -1,1 +1,1 @@
-# Slingshot-Maze-Part-2
+Slingshot Maze - Part 2
